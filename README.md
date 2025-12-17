@@ -2,11 +2,8 @@ Rails Blog
 
 Live Demo: https://blog-app-greyknight.fly.dev
 
-A fully functional, production-ready blogging platform built with Ruby on Rails. Users can seamlessly create, edit, and delete posts while exploring clean Rails architecture, RESTful routing, and robust CRUD operations.
+A production-ready blogging platform built with Ruby on Rails. Users can create, edit, and delete posts seamlessly, leveraging clean Rails architecture, RESTful routing, and full CRUD functionality.
 
-Why It Stands Out:
-Demonstrates practical Rails development with scalable, maintainable code
-Designed for rapid feature expansion: authentication, commenting, notifications
-Highlights ability to turn ideas into real-world, usable applications
+Why It Matters: This project demonstrates the ability to turn ideas into real, usable applications. It showcases scalable, maintainable Rails code, practical feature expansion like authentication and notifications, and strong full-stack problem-solving skills.
 
 Tech Stack: Ruby | Rails | SQLite/PostgreSQL | HTML | CSS
